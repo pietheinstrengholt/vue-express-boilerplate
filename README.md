@@ -1,6 +1,6 @@
-# vue-express-boiler-template
+# vue-express-boilerplate
 
-> A boiler template with VueJS frontend and Express backend
+> A boilerplate with VueJS frontend and Express backend
 
 ## Build Setup
 
