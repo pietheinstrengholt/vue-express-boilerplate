@@ -1,7 +1,7 @@
 {
-  "name": "vue-express-boiler-template",
+  "name": "vue-express-boilerplate",
   "version": "1.0.0",
-  "description": "A boiler template with VueJS frontend and Express backend",
+  "description": "A boilerplate with VueJS frontend and Express backend",
   "author": "Piethein Strengholt <piethein@strengholt-online.nl>",
   "private": true,
   "scripts": {
