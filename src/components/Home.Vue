@@ -33,7 +33,7 @@ export default {
   methods: {
     fetchData: function() {
       this.$http
-        .get("http://localhost:3000/feed/posts")
+        .get("http://localhost:3000/api/feed/posts")
         .then(response => {
           return response.json();
         })
